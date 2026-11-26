@@ -1,0 +1,7 @@
+# build output
+/signal-lost
+*.exe
+
+# macOS
+.DS_Store
+__MACOSX/
